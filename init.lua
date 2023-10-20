@@ -630,3 +630,7 @@ require('leap').add_default_mappings()
 require('leap-spooky').setup()
 
 require('custom.functions.init').setup()
+
+
+require('onedark').setup {style = 'darker'}
+require('onedark').load()
