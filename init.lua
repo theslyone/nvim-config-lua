@@ -631,5 +631,5 @@ require('leap-spooky').setup()
 require('custom.functions.init').setup()
 
 
-require('onedark').setup {style = 'darker'}
-require('onedark').load()
+-- require('onedark').setup {style = 'darker'}
+-- require('onedark').load()
